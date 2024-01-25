@@ -1,0 +1,40 @@
+{
+    "app_name": "SUPERNOVA",
+    "version": "v1.1.0",
+    "copyright": "mga",
+    "year": 2021,
+    "theme_name": "dracula",
+    "language": "arabic",
+    "custom_title_bar": true,
+    "startup_size": [
+        1280,
+        680
+    ],
+    "minimum_size": [
+        960,
+        540
+    ],
+    "lef_menu_size": {
+        "minimum": 50,
+        "maximum": 240
+    },
+    "left_menu_content_margins": 3,
+    "left_column_size": {
+        "minimum": 0,
+        "maximum": 280
+    },
+    "right_column_size": {
+        "minimum": 0,
+        "maximum": 240
+    },
+    "search_area_size": {
+        "minimum": 0,
+        "maximum": 40
+    },
+    "time_animation": 80,
+    "font": {
+        "family": "Segoe UI",
+        "title_size": 10,
+        "text_size": 9
+    }
+}
